@@ -1,6 +1,6 @@
 ###克隆该项目至本地
 ```
-git clone https://github.com/RangelZZZ/reflux-demo
+git clone git@github.com:twa-rs-demos/reflux-demo.git
 ```
 * 执行 `npm install`
 ###执行第一个 Demo（Reflux+React 实现页面渲染`hello world！`）
